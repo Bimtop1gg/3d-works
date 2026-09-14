@@ -27,7 +27,7 @@
 
 | Вихідний AI-концепт | Підсумковий 3D-рендер |
 | :---: | :---: |
-| <img src="Gemini_Generated_Image_xir1xnxir1xnxir1.png" width="400"/> | <img src="render_1.png" width="400"/> |
+| <img src="images/Gemini_Generated_Image_xir1xnxir1xnxir1.png" width="400"/> | <img src="images/render_1.png" width="400"/> |
 
 ---
 
@@ -35,8 +35,8 @@
 
 | 3D-геометрія вітража | Загальний вигляд сцени |
 | :---: | :---: |
-| <img src="render_2.png" width="400"/> | <img src="render_3.png" width="400"/> |
+| <img src="images/render_2.png" width="400"/> | <img src="images/render_3.png" width="400"/> |
 
 | Сітка фронтального ракурсу |
 | :---: |
-| <img src="render_4.png" width="400"/> |
+| <img src="images/render_4.png" width="400"/> |
