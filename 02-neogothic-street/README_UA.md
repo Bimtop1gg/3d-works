@@ -27,7 +27,7 @@
 
 | Вихідний AI-концепт | Підсумковий 3D-рендер |
 | :---: | :---: |
-| <img src="_xir1xir1xir1.png" width="400"/> | <img src="render_1.png" width="400"/> |
+| <img src="Gemini_Generated_Image_xir1xnxir1xnxir1.png" width="400"/> | <img src="render_1.png" width="400"/> |
 
 ---
 
